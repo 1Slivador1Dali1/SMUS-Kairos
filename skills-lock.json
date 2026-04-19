@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "skills": {
+    "addfox-best-practices": {
+      "source": "addfox/skills",
+      "sourceType": "github",
+      "computedHash": "173765fc29ee67030ed156154607d908f3f9d034d55e032b27c2c894e21c0463"
+    },
+    "convert-web-pages-to-browser-extensions": {
+      "source": "addfox/skills",
+      "sourceType": "github",
+      "computedHash": "7e774cf21acf0cf989ee8260a58733ee67e039931ea2263cc8f3225af2715416"
+    },
+    "extension-functions-best-practices": {
+      "source": "addfox/skills",
+      "sourceType": "github",
+      "computedHash": "b86725cfb9e3a33d699e292c55ccec13bc47fa2dc4172f3a863c753647ac5db2"
+    }
+  }
+}

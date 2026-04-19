@@ -1,0 +1,23 @@
+{
+  "name": "smus-kairos",
+  "version": "1.0.1-beta.2",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "addfox dev",
+    "build": "addfox build"
+  },
+  "dependencies": {
+    "@addfox/utils": "^0.1.1-beta.5",
+    "vue": "^3.5.30"
+  },
+  "devDependencies": {
+    "addfox": "^0.1.1-beta.7",
+    "@rsbuild/plugin-vue": "^1.2.7",
+    "typescript": "^5.9.3",
+    "@types/chrome": "^0.1.38",
+    "unocss": "^0.62.4",
+    "@unocss/postcss": "^0.62.4",
+    "postcss": "^8.4.32"
+  }
+}
