@@ -8,15 +8,17 @@ const manifest = {
   description: "Browser extension built with addfox",
   permissions: ["activeTab"],
   icons: {
-    "16": "icons/sm.jpeg",
-    "48": "icons/sm.jpeg",
-    "128": "icons/sm.jpeg",
+    "16": "icons/sm.png",
+    "32": "icons/sm.png",
+    "48": "icons/sm.png",
+    "128": "icons/sm.png",
   },
   action: {
     default_icon: {
-      "16": "icons/sm.jpeg",
-      "48": "icons/sm.jpeg",
-      "128": "icons/sm.jpeg",
+      "16": "icons/sm.png",
+      "32": "icons/sm.png",
+      "48": "icons/sm.png",
+      "128": "icons/sm.png",
     },
   },
 };
