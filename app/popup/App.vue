@@ -1,8 +1,14 @@
 <template>
   <div class="popup">
-    <img src="/icons/icon_128.png" alt="" width="64" height="64" />
+    <img src="/icons/sm.jpeg" alt="" width="64" height="64" />
     <div class="title">AddFox Vue</div>
-    <a class="site-link" href="https://addfox.dev/" target="_blank" rel="noopener noreferrer">addfox.dev</a>
+    <a
+      class="site-link"
+      href="https://addfox.dev/"
+      target="_blank"
+      rel="noopener noreferrer"
+      >addfox.dev</a
+    >
   </div>
 </template>
 
@@ -17,7 +23,11 @@
   align-items: center;
   justify-content: center;
   gap: 12px;
-  font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+  font-family:
+    system-ui,
+    -apple-system,
+    "Segoe UI",
+    sans-serif;
 }
 
 .title {
