@@ -5,7 +5,9 @@
   "type": "module",
   "scripts": {
     "dev": "addfox dev",
-    "build": "addfox build"
+    "dev:firefox": "addfox dev -b firefox",
+    "build": "addfox build",
+    "build:chrome": "addfox build -b chrome"
   },
   "dependencies": {
     "@addfox/utils": "^0.1.1-beta.5",
